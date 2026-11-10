@@ -33,13 +33,6 @@ val hello = agent<String, String, Any> {
 
 Start from the [**website**](https://jakta-bdi.github.io/): tutorials, how-to guides, concepts and showcase applications.
 
-## Repositories
-
-| Repository | What it is |
-|---|---|
-| [jakta](https://github.com/jakta-bdi/jakta) | The framework: core engine, DSL, Prolog and string incarnations, Alchemist integration, examples and website sources |
-| [jakta-bdi.github.io](https://github.com/jakta-bdi/jakta-bdi.github.io) | Deployed website and API reference |
-
 ## Get involved
 
 - 💬 Questions, ideas or something you built with JaKtA? Join the [**Community discussions**](https://github.com/orgs/jakta-bdi/discussions).
