@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://jakta-bdi.github.io/"><img src="https://jakta-bdi.github.io/img/logo.svg" alt="JaKtA logo" width="120"></a>
-</p>
-
 <h1 align="center">JaKtA</h1>
 
 <p align="center">
@@ -10,8 +6,7 @@
   <a href="https://jakta-bdi.github.io/docs/intro">Docs</a> ·
   <a href="https://github.com/orgs/jakta-bdi/discussions">Discussions</a> ·
   <a href="https://jakta-bdi.github.io/api/">API</a> ·
-  <a href="https://central.sonatype.com/namespace/it.unibo.jakta">Maven Central</a> ·
-  <a href="https://doi.org/10.1007/s42979-024-03244-y">Paper</a>
+  <a href="https://central.sonatype.com/namespace/it.unibo.jakta">Maven Central</a>
 </p>
 
 JaKtA is a Belief-Desire-Intention (BDI) agent-oriented programming framework.
